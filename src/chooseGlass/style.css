@@ -1,0 +1,10 @@
+.lady {
+    position: relative;
+}
+
+.glass__model {
+    position: absolute;
+    top: 21%;
+    left: 45%;
+}
+
